@@ -11,8 +11,8 @@ I build secure, offline-first mobile apps with Flutter. Most of my work has been
 - 🧱 **Architecture:** Clean Architecture with BLoC, Cubit and MobX
 
 #### Right now
-- 🔨 Building [flutter-digital-lending](https://github.com/k-karthick-raja/flutter-digital-lending), a loan application app, in public
-- 🌍 Next up: [flutter-rtl-wallet](https://github.com/k-karthick-raja/flutter-rtl-wallet), an Arabic/English wallet with full RTL support
+- 🔨 Building [flutter-field-inspection](https://github.com/k-karthick-raja/flutter-field-inspection), an offline-first inspection app, in public
+- 🌍 Next up: [flutter-property-search](https://github.com/k-karthick-raja/flutter-property-search), an Arabic/English property search app with full RTL support
 - 🐍 Learning Python, DSA and ML. My notes are in [learning-lab](https://github.com/k-karthick-raja/learning-lab)
 
 #### Apps I've worked on (Play Store)
