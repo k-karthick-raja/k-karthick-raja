@@ -2,14 +2,14 @@
 
 **Mobile Developer** · Flutter & native Android · Chennai, India
 
-5+ years building mobile apps, plus 2+ years in Android app security. Today I work on banking apps in Flutter, and I bring a security analyst's eye to the code I ship.
+5+ years building mobile apps in Flutter and native Android. Today I work on banking apps used by millions.
 
 #### What I work on
 - 🏦 **Banking journeys:** overdraft against deposits, end to end, on an app with 100M+ downloads
 - 🛵 **Lending:** led a two-wheeler loan module, with a reusable API layer and digital payments
-- 🛡️ **App security:** reviewed Android apps on Google Play for spyware, toll fraud and maskware
 - 🧱 **Architecture:** Clean Architecture with MobX and Cubit, with unit tests on the business logic
 - 🤖 **Native roots:** started in native Android (Java), Flutter since 2022
+- 🛡️ **Security:** two years reviewing Android apps for malware on Google Play, so I keep security in mind as I build
 
 #### Right now
 - 🔨 Building [flutter-field-inspection](https://github.com/k-karthick-raja/flutter-field-inspection), an offline-first inspection app, in public
@@ -22,7 +22,7 @@
 - **Jeevitam WorkFair:** native Android event app with push notifications, offline schedules and venue maps
 
 #### Tech
-`Flutter` `Dart` `MobX` `Cubit` `Clean Architecture` `Android (Java)` `Retrofit` `Firebase` `REST APIs` `Google Maps` `Unit testing` `Burp Suite` `Python (learning)`
+`Flutter` `Dart` `MobX` `Cubit` `Clean Architecture` `Android (Java)` `Retrofit` `Firebase` `REST APIs` `Google Maps` `Unit testing` `Android Studio` `Python (learning)`
 
 #### Reach me
 [LinkedIn](https://www.linkedin.com/in/k-karthick-raja/)
