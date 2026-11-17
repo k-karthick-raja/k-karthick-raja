@@ -16,6 +16,7 @@ I build secure, offline-first mobile apps with Flutter. Most of my work has been
 - 🐍 Learning Python, DSA and ML. My notes are in [learning-lab](https://github.com/k-karthick-raja/learning-lab)
 
 #### Apps I've worked on (Play Store)
+- **SBI (State Bank of India):** overdraft against fixed and recurring deposits, including OD closure, OD limit increase and joint OD
 - **Shriram One:** led the two-wheeler loan module, with digital payments
 - **Inspira:** finance app with real-time sync, offline budgeting and encrypted local storage
 - **PMI:** ordering app with Razorpay checkout, drive-thru geofencing and offline cart recovery
