@@ -9,6 +9,7 @@ I build secure, offline-first mobile apps with Flutter. Most of my work has been
 - 💳 **Payments:** Razorpay integrations and checkout flows
 - 📴 **Offline-first apps:** local caching, background sync, drafts that survive a lost connection
 - 🧱 **Architecture:** Clean Architecture with BLoC, Cubit and MobX
+- 🤖 **Native roots:** started in native Android (Java), Flutter since 2022
 
 #### Right now
 - 🔨 Building [flutter-field-inspection](https://github.com/k-karthick-raja/flutter-field-inspection), an offline-first inspection app, in public
@@ -19,7 +20,6 @@ I build secure, offline-first mobile apps with Flutter. Most of my work has been
 - **SBI (State Bank of India):** end-to-end overdraft against fixed and recurring deposits, including OD creation, partial payments, closure, limit increase and joint OD
 - **Shriram One:** led the two-wheeler loan module, with digital payments
 - **Inspira:** finance app with real-time sync, offline budgeting and encrypted local storage
-- **PMI:** ordering app with Razorpay checkout, drive-thru geofencing and offline cart recovery
 - **Jeevitam WorkFair:** event app with push notifications, offline schedules and venue maps
 
 #### Tech
